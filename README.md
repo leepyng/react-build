@@ -1,9 +1,9 @@
-# 部署React工程的步骤
+# 部署React+webpack工程的步骤
 ps:以Mac os系统做开发环境。因为npm现在使用灰常的慢，所以我使用淘宝境像cnpm。
 
 1,准备工作：
 	 先确保存已经安装了node.js；
-	 
+
 2,文件部署：
 	（1），在终端中找到react-build项目的目录，键入cnpm init初始化一个package.json文件,该文件是存放接下来项目用的一些模块，
 	在终端中根据提交一步步的输入，或者可以直接新建一个package.json文件，文件内容大概如下：
