@@ -1,0 +1,50 @@
+{
+    "name": "yes",
+    "version": "1.0.0",
+    "description": "react-build",
+    "main": "index.js",
+    "scripts": {
+        "test": "no"
+    },
+    "author": "Chen Leepyng",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "react": "^15.3.1",
+        "react-dom": "^15.3.1",
+        "react-mobile-picker": "^0.1.10",
+        "react-slick": "^0.13.1"
+    },
+    "devDependencies": {
+        "babel-core": "^6.13.2",
+        "babel-loader": "^6.2.8",
+        "babel-preset-react": "^6.11.1",
+        "css-loader": "^0.23.1",
+        "es6-promise": "^3.2.1",
+        "esformatter-jsx": "^7.4.0",
+        "eslint": "^3.11.1",
+        "eslint-config-airbnb": "^13.0.0",
+        "eslint-plugin-import": "^2.2.0",
+        "eslint-plugin-jsx-a11y": "^3.0.1",
+        "eslint-plugin-react": "^6.7.1",
+        "file-loader": "^0.8.5",
+        "html-webpack-plugin": "^2.24.1",
+        "iscroll": "^5.2.0",
+        "iscroll-component": "^2.0.2",
+        "react": "^15.0.2",
+        "react-addons-linked-state-mixin": "^15.1.0",
+        "react-document-title": "^2.0.2",
+        "react-dom": "^15.0.2",
+        "react-iscroll": "^1.0.2",
+        "react-router": "^2.4.0",
+        "react-weui": "^0.4.0",
+        "style-loader": "^0.13.1",
+        "url-loader": "^0.5.7",
+        "webpack": "^1.13.3",
+        "webpack-dev-server": "^1.15.1",
+        "webpack-encoding-plugin": "^0.0.2",
+        "webpack-livereload-plugin": "^0.8.2",
+        "weui": "^0.4.2",
+        "whatwg-fetch": "^1.0.0"
+    }
+
+}
